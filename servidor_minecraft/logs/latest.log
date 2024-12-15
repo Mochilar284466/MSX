@@ -1,0 +1,198 @@
+[00:04:01] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:04:15] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:06:02] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:06:03] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:06:05] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:07:21] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:07:22] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:07:26] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:08:31] [Server thread/INFO]: xFerNando1314x fell off some twisting vines
+[00:08:50] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[00:09:30] [Server thread/INFO]: xFerNando1314x tried to swim in lava
+[00:09:36] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[00:12:41] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:12:42] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:14:44] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [Ice Bucket Challenge]
+[00:15:54] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09
+[00:15:54] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to +CHUMAPRO09]
+[00:16:14] [Server thread/INFO]: xFerNando1314x issued server command: /setblock 175 63 -413 minecraft:fire
+[00:16:14] [Server thread/INFO]: [xFerNando1314x: Changed the block at 175, 63, -413]
+[00:16:29] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[00:16:29] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[00:16:50] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[00:16:50] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[00:18:08] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[00:18:08] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[00:19:01] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:19:01] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:19:23] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:19:23] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:22:23] [Server thread/INFO]: xFerNando1314x fell off some twisting vines
+[00:22:26] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[00:24:04] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09
+[00:24:04] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to +CHUMAPRO09]
+[00:25:51] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:25:53] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:28:14] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[00:28:14] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[00:33:13] [Server thread/INFO]: xFerNando1314x issued server command: /execute as +CHUMAPRO09 run summon minecraft:lightning_bolt
+[00:33:13] [Server thread/INFO]: [+CHUMAPRO09: Summoned new Lightning Bolt]
+[00:33:22] [Server thread/INFO]: xFerNando1314x issued server command: /kick FerNando1314355
+[00:33:22] [Server thread/INFO]: FerNando1314355 lost connection: Kicked by an operator
+[00:33:22] [Server thread/INFO]: FerNando1314355 left the game
+[00:33:22] [Server thread/INFO]: [xFerNando1314x: Kicked FerNando1314355: Kicked by an operator]
+[00:34:17] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [We Need to Go Deeper]
+[00:36:20] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:40:15] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:44:57] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:47:26] [Server thread/INFO]: xFerNando1314x has made the advancement [A Seedy Place]
+[00:52:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:52:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:53:29] [Server thread/INFO]: xFerNando1314x issued server command: /seed
+[00:53:42] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:55:02] [Async Chat Thread - #28/INFO]: [Not Secure] <xFerNando1314x> -101 331
+[00:55:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[00:55:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[00:55:12] [Server thread/INFO]: xFerNando1314x issued server command: /tp -101 ~ 331
+[00:55:12] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to -100.500000, 45.000000, 331.500000]
+[00:55:17] [Server thread/INFO]: xFerNando1314x has made the advancement [A Terrible Fortress]
+[00:55:20] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:55:20] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:55:25] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:55:25] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:55:46] [Server thread/INFO]: xFerNando1314x lost connection: Disconnected
+[00:55:46] [Server thread/INFO]: xFerNando1314x left the game
+[00:55:57] [User Authenticator #2/INFO]: UUID of player xFerNando1314x is 28fc7624-3b5a-33e5-b9a1-c646b787031c
+[00:55:58] [Server thread/INFO]: xFerNando1314x joined the game
+[00:55:58] [Server thread/INFO]: xFerNando1314x[/127.28.244.156:58545] logged in with entity id 38524 at ([world_nether]-100.72039379370987, 74.0, 313.3593837279437)
+[00:56:17] [Server thread/INFO]: xFerNando1314x lost connection: Disconnected
+[00:56:17] [Server thread/INFO]: xFerNando1314x left the game
+[00:56:21] [User Authenticator #2/INFO]: UUID of player xFerNando1314x is 28fc7624-3b5a-33e5-b9a1-c646b787031c
+[00:56:22] [Server thread/INFO]: xFerNando1314x joined the game
+[00:56:22] [Server thread/INFO]: xFerNando1314x[/127.28.244.156:40199] logged in with entity id 38723 at ([world_nether]-97.89414266084762, 74.0, 331.0410670039959)
+[00:56:29] [Server thread/INFO]: xFerNando1314x lost connection: Disconnected
+[00:56:29] [Server thread/INFO]: xFerNando1314x left the game
+[00:56:32] [User Authenticator #2/INFO]: UUID of player xFerNando1314x is 28fc7624-3b5a-33e5-b9a1-c646b787031c
+[00:56:33] [Server thread/INFO]: xFerNando1314x joined the game
+[00:56:33] [Server thread/INFO]: xFerNando1314x[/127.28.244.156:55419] logged in with entity id 38766 at ([world_nether]-101.21578928657088, 74.0, 330.0336750641097)
+[00:58:52] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [Who is Cutting Onions?]
+[00:59:28] [Server thread/INFO]: xFerNando1314x has made the advancement [Into Fire]
+[01:04:48] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:04:48] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:05:13] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:05:13] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:05:54] [Server thread/INFO]: xFerNando1314x withered away
+[01:06:04] [Server thread/INFO]: xFerNando1314x issued server command: /back
+[01:07:05] [Server thread/INFO]: xFerNando1314x has made the advancement [Not Today, Thank You]
+[01:07:49] [Server thread/INFO]: xFerNando1314x fell from a high place
+[01:07:53] [Server thread/INFO]: xFerNando1314x issued server command: /back
+[01:08:05] [Server thread/INFO]: xFerNando1314x issued server command: /tpahere +CHUMAPRO09
+[01:08:31] [Server thread/INFO]: +CHUMAPRO09 issued server command: /tpaccept
+[01:08:37] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [A Terrible Fortress]
+[01:10:31] [Server thread/INFO]: xFerNando1314x was slain by Wither Skeleton
+[01:10:35] [Server thread/INFO]: xFerNando1314x issued server command: /back
+[01:12:02] [Server thread/INFO]: Named entity Zombie['xFerNando1314x's Zombie'/43546, uuid='3a2f091f-07f1-4800-a0bd-6f2b9427c30c', l='ServerLevel[world_nether]', x=-86.69, y=54.00, z=412.40, cpos=[-6, 25], tl=116, v=true] died: xFerNando1314x's Zombie was slain by +CHUMAPRO09
+[01:13:19] [Server thread/INFO]: +CHUMAPRO09 withered away while fighting Wither Skeleton
+[01:13:30] [Server thread/INFO]: +CHUMAPRO09 issued server command: /grave
+[01:13:38] [Server thread/INFO]: +CHUMAPRO09 issued server command: /grave
+[01:13:45] [Server thread/INFO]: +CHUMAPRO09 issued server command: /grave
+[01:13:48] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:13:48] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:13:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:13:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:15:17] [Server thread/INFO]: Named entity Zombie['+CHUMAPRO09's Zombie'/43935, uuid='ac6b80f4-23fc-4777-a907-805cd73bbb5f', l='ServerLevel[world_nether]', x=-72.20, y=61.00, z=398.11, cpos=[-5, 24], tl=128, v=true] died: +CHUMAPRO09's Zombie was slain by xFerNando1314x
+[01:15:52] [Server thread/INFO]: +CHUMAPRO09 was slain by xFerNando1314x
+[01:15:59] [Server thread/INFO]: +CHUMAPRO09 issued server command: /grave
+[01:16:30] [Server thread/INFO]: Named entity Zombie['+CHUMAPRO09's Zombie'/44053, uuid='09a217ee-2bfb-4295-8110-38442eab48ff', l='ServerLevel[world_nether]', x=-80.27, y=61.00, z=409.88, cpos=[-6, 25], tl=154, v=true] died: +CHUMAPRO09's Zombie was burned to a crisp while fighting +CHUMAPRO09
+[01:16:35] [Server thread/INFO]: xFerNando1314x was slain by Piglin
+[01:16:41] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[01:16:41] [Server thread/INFO]: xFerNando1314x was killed
+[01:16:41] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[01:16:51] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[01:16:51] [Server thread/INFO]: xFerNando1314x was killed
+[01:16:51] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[01:16:56] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:16:56] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:16:57] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[01:17:37] [Server thread/INFO]: Named entity Zombie['xFerNando1314x's Zombie'/44373, uuid='1cca88d1-b731-4a0a-8a99-7c4e2dd16a1a', l='ServerLevel[world_nether]', x=-78.26, y=42.00, z=420.39, cpos=[-5, 26], tl=410, v=true] died: xFerNando1314x's Zombie was slain by xFerNando1314x
+[01:21:57] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:21:58] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:22:39] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:22:52] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[01:23:28] [Server thread/INFO]: xFerNando1314x issued server command: /tp chupapro xFerNando1314x
+[01:23:35] [Server thread/INFO]: xFerNando1314x issued server command: /tp +chumapro xFerNando1314x
+[01:23:39] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
+[01:23:39] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
+[01:24:41] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:24:41] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:24:49] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:24:49] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:30:22] [Server thread/INFO]: xFerNando1314x issued server command: /effect give xFerNando1314x minecraft:invisibility infinite 255 true
+[01:30:22] [Server thread/INFO]: [xFerNando1314x: Applied effect Invisibility to xFerNando1314x]
+[01:31:34] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[01:31:34] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[01:31:34] [Server thread/INFO]: xFerNando1314x issued server command: /effect clear xFerNando1314x
+[01:31:34] [Server thread/INFO]: [xFerNando1314x: Removed every effect from xFerNando1314x]
+[01:31:39] [Server thread/INFO]: xFerNando1314x was slain by +CHUMAPRO09
+[01:32:22] [Server thread/INFO]: xFerNando1314x issued server command: /effect give xFerNando1314x minecraft:dolphins_grace infinite 255 true
+[01:32:22] [Server thread/INFO]: [xFerNando1314x: Applied effect Dolphin's Grace to xFerNando1314x]
+[01:35:34] [Server thread/INFO]: xFerNando1314x issued server command: /effect give xFerNando1314x minecraft:invisibility infinite 255 true
+[01:35:34] [Server thread/INFO]: [xFerNando1314x: Applied effect Invisibility to xFerNando1314x]
+[01:36:25] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:36:27] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[01:38:42] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:38:42] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:38:47] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:38:47] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:39:44] [localSession-17-2/INFO]: [Geyser-Spigot] CHUMAPRO09 has disconnected from the Java server because of Bedrock client timed out
+[01:39:44] [Geyser Spigot connection thread-16-3/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 disconnected
+[01:39:44] [Server thread/INFO]: +CHUMAPRO09 lost connection: Disconnected
+[01:39:44] [Server thread/INFO]: +CHUMAPRO09 left the game
+[01:40:18] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:40:18] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:40:38] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:40:38] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:41:19] [Server thread/INFO]: xFerNando1314x lost connection: Disconnected
+[01:41:19] [Server thread/INFO]: xFerNando1314x left the game
+[01:52:35] [Server thread/INFO]: Stopping the server
+[01:52:35] [Server thread/INFO]: Stopping server
+[01:52:35] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[01:52:35] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:52:35] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:52:35] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:52:35] [Server thread/INFO]: [Graves] Disabling Graves v4.9.6
+[01:52:35] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
+[01:52:35] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[01:52:35] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[01:52:35] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:52:35] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:52:35] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[01:52:35] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:52:35] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[01:52:35] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[01:52:35] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[01:52:36] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[01:52:36] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[01:52:36] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:52:36] [Server thread/INFO]: Saving players
+[01:52:36] [WebSocketConnectReadThread-475/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:52:36] [Server thread/INFO]: Saving worlds
+[01:52:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Saved 14 block chunks, 99 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[01:52:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 118 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[01:52:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:52:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:52:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
