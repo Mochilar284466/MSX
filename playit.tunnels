@@ -1,0 +1,61 @@
+{
+  "tcp_alloc": {
+    "allowed": 6,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "services-hartford.gl.joinmc.link",
+          "assigned_srv": "services-hartford.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "16c6c81a-7933-49e9-ba79-9fb0c6609978",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 48205,
+          "port_start": 48204,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "static_ip6": "2602:fbaf:0:1::14",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-12-14T21:07:35.711900Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "68d92c8a-76da-43d7-b0c6-0ea50f502056",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "2c291d08-1b41-4d8e-bdcb-bb879b274acb",
+          "agent_name": "MSX",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 6,
+    "claimed": 0,
+    "desired": 0
+  }
+}
