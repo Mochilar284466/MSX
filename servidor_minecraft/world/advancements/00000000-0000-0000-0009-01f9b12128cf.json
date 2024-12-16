@@ -634,7 +634,9 @@
       "cooked_porkchop": "2024-12-14 23:36:45 +0000",
       "chicken": "2024-12-15 00:23:37 +0000",
       "bread": "2024-12-14 22:58:39 +0000",
-      "cooked_mutton": "2024-12-14 23:18:04 +0000"
+      "cooked_mutton": "2024-12-14 23:18:04 +0000",
+      "cooked_beef": "2024-12-16 23:42:28 +0000",
+      "porkchop": "2024-12-16 23:48:20 +0000"
     },
     "done": false
   },
@@ -2203,6 +2205,24 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-15 01:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-16 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-16 23:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-16 23:45:38 +0000"
     },
     "done": true
   },
