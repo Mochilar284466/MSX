@@ -307,3 +307,17 @@
 [02:19:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
 [02:19:25] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [02:19:25] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:25:14] [Server thread/INFO]: xFerNando1314x discovered the floor was lava
+[02:25:30] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[02:25:30] [Server thread/INFO]: xFerNando1314x was killed
+[02:25:30] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[02:25:36] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:25:44] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:31:18] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 382.17 63.00 -483.63 -867.15 9.00
+[02:31:18] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.170000, 63.000000, -483.630000]
+[02:31:48] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 382.17 63.00 -483.63 -867.15 9.00
+[02:31:48] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.170000, 63.000000, -483.630000]
+[02:33:27] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:33:27] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:33:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:33:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
