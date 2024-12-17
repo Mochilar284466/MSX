@@ -321,3 +321,15 @@
 [02:33:27] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
 [02:33:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [02:33:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:35:52] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 1213.20 64.00 -263.51 -65.10 14.40
+[02:35:52] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 1213.200000, 64.000000, -263.510000]
+[02:36:03] [Async Chat Thread - #14/INFO]: [Not Secure] <xFerNando1314x> 1214 64 -260
+[02:41:40] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:41:40] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:41:48] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:41:48] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:42:33] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:42:33] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:42:43] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:42:43] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:43:04] [Server thread/INFO]: xFerNando1314x has made the advancement [Eye Spy]
