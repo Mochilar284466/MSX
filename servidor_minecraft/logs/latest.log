@@ -333,3 +333,58 @@
 [02:42:43] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [02:42:43] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
 [02:43:04] [Server thread/INFO]: xFerNando1314x has made the advancement [Eye Spy]
+[02:44:53] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:44:53] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:44:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:44:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:44:56] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:44:56] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:44:58] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:44:58] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:45:32] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[02:45:32] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[02:46:04] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:46:04] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:46:12] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:46:12] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:49:01] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[02:49:01] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[02:49:40] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[02:49:40] [Server thread/INFO]: xFerNando1314x was killed
+[02:49:40] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[02:50:01] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[02:50:01] [Server thread/INFO]: xFerNando1314x was killed
+[02:50:01] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[02:50:06] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:50:31] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[02:50:31] [Server thread/INFO]: xFerNando1314x was killed
+[02:50:31] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[02:50:41] [Server thread/INFO]: xFerNando1314x issued server command: /tp 1640 0 -775
+[02:50:41] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 1640.500000, 0.000000, -774.500000]
+[02:50:45] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:50:45] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:51:05] [Server thread/INFO]: xFerNando1314x issued server command: /tp 1640 0 -77
+[02:51:05] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 1640.500000, 0.000000, -76.500000]
+[02:51:11] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:51:11] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:51:34] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:51:53] [Server thread/INFO]: xFerNando1314x issued server command: /effect give xFerNando1314x minecraft:haste infinite
+[02:51:53] [Server thread/INFO]: [xFerNando1314x: Applied effect Haste to xFerNando1314x]
+[02:52:28] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:52:28] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:52:34] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:52:34] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:53:13] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[02:53:13] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[02:53:36] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:53:36] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:53:37] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:53:37] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:53:47] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:53:47] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:53:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:53:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:53:57] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:53:57] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:54:31] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:54:31] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
