@@ -1,447 +1,180 @@
-[00:02:21] [Server thread/INFO]: You whisper to +CHUMAPRO09: ya me meto, esperenme me habre el mc
-[00:02:21] [Server thread/INFO]: You whisper to ignacioae309: ya me meto, esperenme me habre el mc
-[00:02:29] [User Authenticator #3/INFO]: UUID of player xFerNando1314x is 28fc7624-3b5a-33e5-b9a1-c646b787031c
-[00:02:31] [Server thread/INFO]: xFerNando1314x joined the game
-[00:02:31] [Server thread/INFO]: xFerNando1314x[/127.28.244.156:55809] logged in with entity id 8519 at ([world]379.5, 63.0, -482.5)
-[00:02:39] [Async Chat Thread - #6/INFO]: [Not Secure] <+CHUMAPRO09> :o
-[00:03:15] [Server thread/INFO]: xFerNando1314x issued server command: /effect clear xFerNando1314x
-[00:03:15] [Server thread/INFO]: [xFerNando1314x: Removed every effect from xFerNando1314x]
-[00:03:45] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[00:03:45] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[00:03:56] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[00:03:56] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[00:05:23] [Server thread/INFO]: xFerNando1314x drowned
-[00:05:41] [Async Chat Thread - #8/INFO]: [Not Secure] <+CHUMAPRO09> Realmente se ahogo
-[00:06:27] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[00:06:27] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[00:06:39] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[00:06:39] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[00:07:22] [Server thread/INFO]: +CHUMAPRO09 issued server command: /tell xFerNando1314x llamada?
-[00:07:36] [Server thread/INFO]: xFerNando1314x issued server command: /msg +CHUMAPRO09 estoy en llamada con rodolfo
-[00:08:11] [Server thread/INFO]: +CHUMAPRO09 issued server command: /tell xFerNando1314x y no invitan
-[00:09:10] [Server thread/INFO]: +CHUMAPRO09 issued server command: /tell xFerNando1314x (Le manda el stiker del gato sacando el dedo del medio)
-[00:09:25] [Server thread/INFO]: xFerNando1314x issued server command: /gamerule playersSleepingPercentage 25
-[00:09:25] [Server thread/INFO]: [xFerNando1314x: Gamerule playersSleepingPercentage is now set to: 25]
-[00:16:22] [Server thread/INFO]: xFerNando1314x drowned
-[00:17:57] [Server thread/INFO]: xFerNando1314x drowned
-[00:18:02] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[00:19:43] [Server thread/INFO]: +CHUMAPRO09 was slain by Zombie
-[00:19:51] [Server thread/INFO]: +CHUMAPRO09 issued server command: /grave
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:19:57] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 593.0,-91.0,-362.0
-[00:21:06] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[00:21:06] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[00:21:07] [Server thread/INFO]: ignacioae309 has made the advancement [Acquire Hardware]
-[00:21:32] [Server thread/INFO]: ignacioae309 has made the advancement [Suit Up]
-[00:22:07] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[00:22:07] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[00:23:14] [Server thread/INFO]: ignacioae309 has made the advancement [Monster Hunter]
-[00:23:20] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
-[00:23:24] [Server thread/INFO]: xFerNando1314x issued server command: /geyser help
-[00:23:41] [Server thread/INFO]: xFerNando1314x issued server command: /linkaccount
-[00:23:52] [Server thread/INFO]: xFerNando1314x issued server command: /linkaccount xFerNando1314x F1314K24
-[00:25:35] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:efficiency 5
-[00:25:35] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Efficiency V to xFerNando1314x's item]
-[00:25:39] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:fortune 3
-[00:25:39] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Fortune III to xFerNando1314x's item]
-[00:25:48] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 2
-[00:25:49] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
-[00:25:49] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[00:26:01] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:lure 1
-[00:26:06] [Server thread/INFO]: ignacioae309 has made the advancement [Isn't It Iron Pick]
-[00:26:50] [Server thread/INFO]: xFerNando1314x has made the advancement [Ice Bucket Challenge]
-[00:36:44] [Server thread/INFO]: ignacioae309 fell from a high place
-[00:37:39] [Server thread/INFO]: ignacioae309 issued server command: /grave
-[00:38:29] [Server thread/INFO]: xFerNando1314x discovered the floor was lava
-[00:39:04] [Async Chat Thread - #12/INFO]: [Not Secure] <xFerNando1314x> vice, tienes discord?
-[00:39:22] [Async Chat Thread - #12/INFO]: [Not Secure] <+CHUMAPRO09> Si
-[00:39:35] [Async Chat Thread - #12/INFO]: [Not Secure] <xFerNando1314x> pasame tu discord por ig o whatsapp
-[00:39:57] [Server thread/WARN]: Oak Boat (vehicle of ignacioae309) moved wrongly! 0.5541653798754851
-[00:39:57] [Server thread/WARN]: Oak Boat (vehicle of ignacioae309) moved wrongly! 0.8785657113260186
-[00:39:57] [Server thread/WARN]: Oak Boat (vehicle of ignacioae309) moved wrongly! 1.2092853617485573
-[00:39:58] [Server thread/WARN]: Oak Boat (vehicle of ignacioae309) moved wrongly! 0.5158910114134869
-[00:39:58] [Server thread/WARN]: Oak Boat (vehicle of ignacioae309) moved wrongly! 0.8318406358885113
-[00:40:24] [localSession-7-2/INFO]: [Geyser-Spigot] CHUMAPRO09 has disconnected from the Java server because of Bedrock client disconnected
-[00:40:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 disconnected
-[00:40:24] [Server thread/INFO]: +CHUMAPRO09 lost connection: Disconnected
-[00:40:24] [Server thread/INFO]: +CHUMAPRO09 left the game
-[00:40:26] [Server thread/INFO]: ignacioae309 has made the advancement [Not Today, Thank You]
-[00:42:43] [Server thread/INFO]: ignacioae309 lost connection: Disconnected
-[00:42:43] [Server thread/INFO]: ignacioae309 left the game
-[00:45:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[00:45:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[00:45:15] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[00:45:15] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[00:45:25] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[00:45:25] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[00:45:26] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[00:45:26] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[01:20:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[01:20:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[01:20:38] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[01:20:38] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[01:46:28] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[01:46:28] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[01:46:34] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[01:46:34] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[01:49:05] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[01:49:05] [Server thread/INFO]: xFerNando1314x was killed
-[01:49:05] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[01:49:44] [Server thread/INFO]: xFerNando1314x tried to swim in lava to escape Zombie
-[01:51:07] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 5
-[01:51:09] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[01:51:09] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[01:53:25] [Server thread/INFO]: xFerNando1314x fell from a high place
-[01:53:38] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[01:53:57] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[01:53:57] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[01:54:03] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[01:54:03] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:02:10] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 382.17 63.00 -483.63 -867.15 9.00
-[02:02:10] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.170000, 63.000000, -483.630000]
-[02:03:15] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:smite 5
-[02:03:15] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Smite V to xFerNando1314x's item]
-[02:03:19] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[02:03:19] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[02:03:22] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
-[02:03:22] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[02:03:31] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:fire_aspect 2
-[02:03:31] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Fire Aspect II to xFerNando1314x's item]
-[02:03:43] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:looting 5
-[02:03:44] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:looting 3
-[02:03:44] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Looting III to xFerNando1314x's item]
-[02:04:03] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:sweeping_edge 5
-[02:04:06] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:sweeping_edge 3
-[02:04:06] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Sweeping Edge III to xFerNando1314x's item]
-[02:04:13] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:protection 4
-[02:04:13] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Protection IV to xFerNando1314x's item]
-[02:04:16] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:respiration 3
-[02:04:16] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Respiration III to xFerNando1314x's item]
-[02:04:18] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:respiration 4
-[02:04:23] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[02:04:23] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[02:04:26] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
-[02:04:26] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[02:04:30] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
-[02:04:30] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[02:04:31] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[02:04:31] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[02:04:34] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:respiration 3
-[02:04:37] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:protection 4
-[02:04:37] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Protection IV to xFerNando1314x's item]
-[02:04:43] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:protection 4
-[02:04:43] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Protection IV to xFerNando1314x's item]
-[02:04:44] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[02:04:44] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[02:04:47] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
-[02:04:47] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[02:04:50] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:soul_speed 4
-[02:04:52] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:soul_speed 3
-[02:04:52] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Soul Speed III to xFerNando1314x's item]
-[02:04:57] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:aqua_affinity 4
-[02:04:58] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:aqua_affinity 1
-[02:05:11] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:feather_falling 5
-[02:05:13] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:feather_falling 4
-[02:05:13] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Feather Falling IV to xFerNando1314x's item]
-[02:05:40] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:aqua_affinity 1
-[02:05:44] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
-[02:05:44] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[02:05:47] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[02:05:47] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[02:05:52] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:protection 4
-[02:05:52] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Protection IV to xFerNando1314x's item]
-[02:05:59] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:swift_sneak 5
-[02:06:01] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:swift_sneak 3
-[02:06:01] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Swift Sneak III to xFerNando1314x's item]
-[02:08:09] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
-[02:08:09] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
-[02:18:25] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:18:25] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:18:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:18:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:18:52] [Server thread/INFO]: xFerNando1314x issued server command: /recipe take xFerNando1314x
-[02:19:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:19:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:19:25] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:19:25] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:25:14] [Server thread/INFO]: xFerNando1314x discovered the floor was lava
-[02:25:30] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[02:25:30] [Server thread/INFO]: xFerNando1314x was killed
-[02:25:30] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[02:25:36] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:25:44] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:31:18] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 382.17 63.00 -483.63 -867.15 9.00
-[02:31:18] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.170000, 63.000000, -483.630000]
-[02:31:48] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 382.17 63.00 -483.63 -867.15 9.00
-[02:31:48] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.170000, 63.000000, -483.630000]
-[02:33:27] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:33:27] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:33:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:33:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:35:52] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 1213.20 64.00 -263.51 -65.10 14.40
-[02:35:52] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 1213.200000, 64.000000, -263.510000]
-[02:36:03] [Async Chat Thread - #14/INFO]: [Not Secure] <xFerNando1314x> 1214 64 -260
-[02:41:40] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:41:40] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:41:48] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:41:48] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:42:33] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:42:33] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:42:43] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:42:43] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:43:04] [Server thread/INFO]: xFerNando1314x has made the advancement [Eye Spy]
-[02:44:53] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:44:53] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:44:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:44:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:44:56] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[02:44:56] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[02:44:58] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:44:58] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:45:32] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
-[02:45:32] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
-[02:46:04] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[02:46:04] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[02:46:12] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:46:12] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:49:01] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
-[02:49:01] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
-[02:49:40] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[02:49:40] [Server thread/INFO]: xFerNando1314x was killed
-[02:49:40] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[02:50:01] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[02:50:01] [Server thread/INFO]: xFerNando1314x was killed
-[02:50:01] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[02:50:06] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:50:31] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[02:50:31] [Server thread/INFO]: xFerNando1314x was killed
-[02:50:31] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[02:50:41] [Server thread/INFO]: xFerNando1314x issued server command: /tp 1640 0 -775
-[02:50:41] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 1640.500000, 0.000000, -774.500000]
-[02:50:45] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:50:45] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:51:05] [Server thread/INFO]: xFerNando1314x issued server command: /tp 1640 0 -77
-[02:51:05] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 1640.500000, 0.000000, -76.500000]
-[02:51:11] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:51:11] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:51:34] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:51:53] [Server thread/INFO]: xFerNando1314x issued server command: /effect give xFerNando1314x minecraft:haste infinite
-[02:51:53] [Server thread/INFO]: [xFerNando1314x: Applied effect Haste to xFerNando1314x]
-[02:52:28] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:52:28] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:52:34] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:52:34] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:53:13] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
-[02:53:13] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
-[02:53:36] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[02:53:36] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[02:53:37] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[02:53:37] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[02:53:47] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:53:47] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:53:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[02:53:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[02:53:57] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:53:57] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:54:31] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[02:54:31] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[02:55:05] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[02:55:05] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[02:55:14] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:55:27] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[02:55:27] [Server thread/INFO]: xFerNando1314x was killed
-[02:55:27] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[02:55:31] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:55:47] [Server thread/INFO]: xFerNando1314x issued server command: /kill
-[02:55:47] [Server thread/INFO]: xFerNando1314x was killed
-[02:55:47] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
-[02:55:51] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:56:03] [Server thread/INFO]: xFerNando1314x issued server command: /grave
-[02:56:15] [Async Chat Thread - #16/INFO]: [Not Secure] <xFerNando1314x> 199 128 -10
-[02:58:15] [Server thread/INFO]: Stopping the server
-[02:58:15] [Server thread/INFO]: Stopping server
-[02:58:15] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
-[02:58:15] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[02:58:15] [Server thread/INFO]: [LuckPerms] Closing storage...
-[02:58:15] [Server thread/INFO]: [LuckPerms] Goodbye!
-[02:58:15] [Server thread/INFO]: [Graves] Disabling Graves v4.9.6
-[02:58:15] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[02:58:15] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
-[02:58:15] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[02:58:15] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[02:58:15] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[02:58:15] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
-[02:58:15] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[02:58:15] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
-[02:58:15] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
-[02:58:15] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[02:58:15] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
-[02:58:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
-[02:58:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:58:15] [Server thread/INFO]: Saving players
-[02:58:15] [Server thread/INFO]: xFerNando1314x lost connection: Server closed
-[02:58:15] [Server thread/INFO]: xFerNando1314x left the game
-[02:58:15] [WebSocketConnectReadThread-125/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[02:58:15] [Server thread/INFO]: Saving worlds
-[02:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:58:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:58:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:58:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 641 block chunks, 723 entity chunks, 0 poi chunks in world 'world' in 0.83s
-[02:58:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 60 block chunks, 147 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
-[02:58:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:04:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[04:04:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[04:04:36] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:04:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[04:04:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - Geyser-Spigot (2.6.0-SNAPSHOT), Graves (4.9.6), LuckPerms (5.4.150), SimpleTpa (7.3), SkinsRestorer (15.5.0), Veinminer (2.2.2), ViaBackwards (5.2.0), ViaRewind (4.0.4), ViaVersion (5.2.1-SNAPSHOT), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[04:04:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:04:44] [ServerMain/INFO]: Loaded 1290 recipes
+[04:04:44] [ServerMain/INFO]: Loaded 1399 advancements
+[04:04:44] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:04:44] [Server thread/INFO]: Loading properties
+[04:04:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:04:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:04:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:04:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:04:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:04:46] [Server thread/INFO]: Default game type: SURVIVAL
+[04:04:46] [Server thread/INFO]: Generating keypair
+[04:04:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:04:46] [Server thread/INFO]: Using epoll channel type
+[04:04:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:04:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
+[04:04:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
+[04:04:48] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1-SNAPSHOT
+[04:04:48] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[04:04:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[04:04:52] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[04:04:53] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[04:04:53] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[04:04:55] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[04:04:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.0
+[04:04:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[04:04:57] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[04:04:57] [Server thread/INFO]: [floodgate] Took 2,362ms to boot Floodgate
+[04:04:57] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[04:04:57] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
+[04:04:57] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[04:05:00] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[04:05:00] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[04:05:00] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[04:05:00] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
+[04:05:01] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.6
+[04:05:01] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.150
+[04:05:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:05:01] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[04:05:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[04:05:02] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[04:05:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[04:05:03] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[04:05:04] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:05:04] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
+[04:05:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.150
+[04:05:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:05:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:05:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:05:05] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[04:05:05] [Server thread/INFO]:         __    
+[04:05:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.150
+[04:05:05] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:05:05] [Server thread/INFO]: 
+[04:05:05] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:05:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:05:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:05:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:05:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1518ms)
+[04:05:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:05:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:05:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:05:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:05:06] [Server thread/INFO]: Preparing level "world"
+[04:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:05:08] [Server thread/INFO]: Time elapsed: 1368 ms
+[04:05:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:05:09] [Server thread/INFO]: Time elapsed: 328 ms
+[04:05:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:05:09] [Server thread/INFO]: Time elapsed: 240 ms
+[04:05:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1-SNAPSHOT
+[04:05:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[04:05:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.0
+[04:05:09] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[04:05:10] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
+[04:05:10] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[04:05:10] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
+[04:05:10] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[04:05:10] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[04:05:11] [Server thread/INFO]: [Graves] Enabling Graves v4.9.6
+[04:05:11] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[04:05:12] [Server thread/INFO]: [spark] Starting background profiler...
+[04:05:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:05:12] [Server thread/INFO]: [Geyser-Spigot] 
+[04:05:12] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
+[04:05:12] [Server thread/INFO]: [Geyser-Spigot] 
+[04:05:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:05:22] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[04:05:23] [Server thread/INFO]: [Geyser-Spigot] Done (10.386s)! Run /geyser help for help!
+[04:05:23] [Server thread/INFO]: Done preparing level "world" (16.873s)
+[04:05:23] [Server thread/INFO]: Starting GS4 status listener
+[04:05:23] [Server thread/INFO]: Thread Query Listener started
+[04:05:23] [Server thread/INFO]: Starting remote control listener
+[04:05:23] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[04:05:23] [Server thread/INFO]: JMX monitoring enabled
+[04:05:23] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[04:05:23] [Server thread/INFO]: Running delayed init tasks
+[04:05:23] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[04:05:23] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[04:05:23] [Server thread/INFO]: Done (48.892s)! For help, type "help"
+[04:05:23] [Server thread/INFO]: Timings Reset
+[04:05:23] [Craft Scheduler Thread - 6 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[04:05:23] [Craft Scheduler Thread - 6 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[04:05:23] [Craft Scheduler Thread - 6 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[04:05:23] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[04:05:26] [User Authenticator #0/INFO]: UUID of player xFerNando1314x is 28fc7624-3b5a-33e5-b9a1-c646b787031c
+[04:05:28] [Server thread/INFO]: xFerNando1314x joined the game
+[04:05:28] [Server thread/INFO]: xFerNando1314x[/127.28.244.156:43043] logged in with entity id 80 at ([world]382.948808784091, -57.5, -447.876056649981)
+[04:10:17] [Server thread/INFO]: xFerNando1314x issued server command: /stop
+[04:10:17] [Server thread/INFO]: [xFerNando1314x: Stopping the server]
+[04:10:17] [Server thread/INFO]: Stopping server
+[04:10:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[04:10:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:10:17] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:10:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:10:17] [Server thread/INFO]: [Graves] Disabling Graves v4.9.6
+[04:10:17] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
+[04:10:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[04:10:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[04:10:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[04:10:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[04:10:17] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[04:10:17] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[04:10:17] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[04:10:17] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[04:10:17] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[04:10:17] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[04:10:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[04:10:17] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:10:17] [Server thread/INFO]: Saving players
+[04:10:17] [Server thread/INFO]: xFerNando1314x lost connection: Server closed
+[04:10:17] [Server thread/INFO]: xFerNando1314x left the game
+[04:10:17] [WebSocketConnectReadThread-119/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[04:10:17] [Server thread/INFO]: Saving worlds
+[04:10:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:10:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:10:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:10:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:10:18] [Server thread/INFO]: [ChunkHolderManager] Saved 709 block chunks, 709 entity chunks, 0 poi chunks in world 'world' in 1.00s
+[04:10:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:10:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:10:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:10:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:10:19] [Server thread/INFO]: [ChunkHolderManager] Saved 613 block chunks, 613 entity chunks, 0 poi chunks in world 'world_nether' in 0.65s
+[04:10:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:10:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:10:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:10:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:10:19] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[04:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
