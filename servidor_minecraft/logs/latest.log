@@ -388,3 +388,60 @@
 [02:53:57] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
 [02:54:31] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
 [02:54:31] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:55:05] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:55:05] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:55:14] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:55:27] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[02:55:27] [Server thread/INFO]: xFerNando1314x was killed
+[02:55:27] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[02:55:31] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:55:47] [Server thread/INFO]: xFerNando1314x issued server command: /kill
+[02:55:47] [Server thread/INFO]: xFerNando1314x was killed
+[02:55:47] [Server thread/INFO]: [xFerNando1314x: Killed xFerNando1314x]
+[02:55:51] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:56:03] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[02:56:15] [Async Chat Thread - #16/INFO]: [Not Secure] <xFerNando1314x> 199 128 -10
+[02:58:15] [Server thread/INFO]: Stopping the server
+[02:58:15] [Server thread/INFO]: Stopping server
+[02:58:15] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[02:58:15] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:58:15] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:58:15] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:58:15] [Server thread/INFO]: [Graves] Disabling Graves v4.9.6
+[02:58:15] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
+[02:58:15] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[02:58:15] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[02:58:15] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[02:58:15] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[02:58:15] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[02:58:15] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[02:58:15] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[02:58:15] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[02:58:15] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:58:15] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[02:58:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[02:58:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:58:15] [Server thread/INFO]: Saving players
+[02:58:15] [Server thread/INFO]: xFerNando1314x lost connection: Server closed
+[02:58:15] [Server thread/INFO]: xFerNando1314x left the game
+[02:58:15] [WebSocketConnectReadThread-125/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[02:58:15] [Server thread/INFO]: Saving worlds
+[02:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:58:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:58:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:58:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 641 block chunks, 723 entity chunks, 0 poi chunks in world 'world' in 0.83s
+[02:58:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 60 block chunks, 147 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[02:58:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:58:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:58:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
