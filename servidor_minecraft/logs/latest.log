@@ -235,3 +235,18 @@
 [01:51:09] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
 [01:51:09] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
 [01:53:25] [Server thread/INFO]: xFerNando1314x fell from a high place
+[01:53:38] [Server thread/INFO]: xFerNando1314x issued server command: /grave
+[01:53:57] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[01:53:57] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[01:54:03] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:54:03] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:02:10] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp @s 382.17 63.00 -483.63 -867.15 9.00
+[02:02:10] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.170000, 63.000000, -483.630000]
+[02:03:15] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:smite 5
+[02:03:15] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Smite V to xFerNando1314x's item]
+[02:03:19] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
+[02:03:19] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
+[02:03:22] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending 1
+[02:03:22] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
+[02:03:31] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:fire_aspect 2
+[02:03:31] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Fire Aspect II to xFerNando1314x's item]
