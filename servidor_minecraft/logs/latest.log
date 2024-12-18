@@ -632,3 +632,59 @@
 [00:58:11] [Server thread/WARN]: Oak Boat (vehicle of xFerNando1314x) moved wrongly! 0.48836693063875913
 [00:58:18] [Async Chat Thread - #10/INFO]: [Not Secure] <xFerNando1314x> esta es la red de portales que te decia
 [00:58:33] [Async Chat Thread - #10/INFO]: [Not Secure] <+CHUMAPRO09> A la mrd
+[01:01:49] [Server thread/INFO]: xFerNando1314x issued server command: /effect give xFerNando1314x minecraft:fire_resistance infinite 255 true
+[01:01:49] [Server thread/INFO]: [xFerNando1314x: Applied effect Fire Resistance to xFerNando1314x]
+[01:02:44] [localSession-7-1/INFO]: [Geyser-Spigot] CHUMAPRO09 has disconnected from the Java server because of Bedrock client disconnected
+[01:02:44] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 disconnected
+[01:02:44] [Server thread/INFO]: +CHUMAPRO09 lost connection: Disconnected
+[01:02:44] [Server thread/INFO]: +CHUMAPRO09 left the game
+[01:03:03] [epollEventLoopGroup-10-4/INFO]: [Geyser-Spigot] Player connected with username CHUMAPRO09
+[01:03:03] [localSession-7-2/INFO]: [Geyser-Spigot] CHUMAPRO09 (logged in as: CHUMAPRO09) has connected to the Java server
+[01:03:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 joined (UUID: 00000000-0000-0000-0009-01f9b12128cf)
+[01:03:04] [Server thread/INFO]: +CHUMAPRO09 joined the game
+[01:03:04] [Server thread/INFO]: +CHUMAPRO09[/127.0.0.1:0] logged in with entity id 21088 at ([world_nether]88.84563, 128.0, -15.307536)
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.38297,0.0,0.21588850000000015
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:03:53] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 14.104810000000015,0.0,0.1808329999999998
+[01:06:21] [Async Chat Thread - #12/INFO]: [Not Secure] <+CHUMAPRO09> Tienes wood?
+[01:06:26] [Async Chat Thread - #12/INFO]: [Not Secure] <xFerNando1314x> ?
+[01:06:39] [Async Chat Thread - #12/INFO]: [Not Secure] <+CHUMAPRO09> Madera
+[01:06:50] [Async Chat Thread - #12/INFO]: [Not Secure] <xFerNando1314x> te hago una transferencia
+[01:07:09] [Async Chat Thread - #12/INFO]: [Not Secure] <+CHUMAPRO09> Ok
+[01:07:10] [Server thread/INFO]: xFerNando1314x issued server command: /give +CHUMAPRO09 minecraft:oak_planks 54
+[01:07:10] [Server thread/INFO]: [xFerNando1314x: Gave 54 [Oak Planks] to +CHUMAPRO09]
+[01:07:16] [Async Chat Thread - #12/INFO]: [Not Secure] <xFerNando1314x> ahi queme los mios
+[01:07:27] [Async Chat Thread - #12/INFO]: [Not Secure] <xFerNando1314x> es que ando bien lejos, es para no tener que volver aqui
+[01:07:27] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! -10.122096999999997,0.0,-0.3089089999999999
+[01:07:42] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:07:42] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:08:04] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:08:04] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:08:58] [Server thread/INFO]: xFerNando1314x has made the advancement [This Boat Has Legs]
