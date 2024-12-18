@@ -1094,3 +1094,66 @@
 [03:09:04] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
 [03:09:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [03:09:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[03:43:25] [Server thread/INFO]: xFerNando1314x issued server command: /give xFerNando1314x minecraft:iron_ingot 2
+[03:43:25] [Server thread/INFO]: [xFerNando1314x: Gave 2 [Iron Ingot] to xFerNando1314x]
+[03:47:01] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:47:01] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:47:15] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[03:47:15] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[03:47:17] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:47:17] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:47:34] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[03:47:34] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[03:47:36] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:47:36] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:47:40] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[03:47:40] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[03:49:48] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:49:48] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:49:56] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[03:49:56] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[03:50:28] [Server thread/INFO]: xFerNando1314x issued server command: /stop
+[03:50:28] [Server thread/INFO]: [xFerNando1314x: Stopping the server]
+[03:50:28] [Server thread/INFO]: Stopping server
+[03:50:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[03:50:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:50:28] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:50:28] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:50:28] [Server thread/INFO]: [Graves] Disabling Graves v4.9.6
+[03:50:28] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
+[03:50:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[03:50:28] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[03:50:28] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:50:28] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:50:28] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[03:50:28] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:50:28] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[03:50:28] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[03:50:28] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:50:28] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[03:50:28] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[03:50:28] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:50:28] [Server thread/INFO]: Saving players
+[03:50:28] [Server thread/INFO]: xFerNando1314x lost connection: Server closed
+[03:50:28] [Server thread/INFO]: xFerNando1314x left the game
+[03:50:28] [WebSocketConnectReadThread-256/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:50:28] [Server thread/INFO]: Saving worlds
+[03:50:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:50:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:50:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:50:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Saved 669 block chunks, 247 entity chunks, 2 poi chunks in world 'world' in 0.48s
+[03:50:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 150 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[03:50:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:50:29] [Server thread/INFO]: [ChunkHolderManager] Saved 65 block chunks, 53 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[03:50:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:50:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:50:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:50:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
