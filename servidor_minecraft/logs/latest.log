@@ -688,3 +688,35 @@
 [01:08:04] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [01:08:04] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
 [01:08:58] [Server thread/INFO]: xFerNando1314x has made the advancement [This Boat Has Legs]
+[01:11:35] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[01:11:35] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[01:11:43] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:11:43] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:14:03] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[01:14:03] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[01:14:19] [Server thread/INFO]: xFerNando1314x has completed the challenge [Hot Tourist Destinations]
+[01:14:49] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:14:49] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:15:27] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 disconnected
+[01:15:27] [localSession-7-2/INFO]: [Geyser-Spigot] CHUMAPRO09 has disconnected from the Java server because of Bedrock client timed out
+[01:15:27] [Server thread/INFO]: +CHUMAPRO09 lost connection: Disconnected
+[01:15:27] [Server thread/INFO]: +CHUMAPRO09 left the game
+[01:16:46] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:16:46] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:17:09] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:17:09] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:18:15] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:18:15] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:19:26] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:infinity 2
+[01:19:27] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:infinity 1
+[01:19:27] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Infinity to xFerNando1314x's item]
+[01:19:30] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x power 5
+[01:19:30] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Power V to xFerNando1314x's item]
+[01:19:35] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:flame 2
+[01:19:36] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:flame 1
+[01:19:36] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Flame to xFerNando1314x's item]
+[01:19:40] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x punch 5
+[01:19:42] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x punch 2
+[01:19:42] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Punch II to xFerNando1314x's item]
+[01:19:43] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:19:43] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]

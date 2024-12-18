@@ -601,6 +601,7 @@
       "minecraft:skeleton": "2024-12-14 23:16:00 +0000",
       "minecraft:zombified_piglin": "2024-12-17 02:10:11 +0000",
       "minecraft:wither_skeleton": "2024-12-15 00:59:11 +0000",
+      "minecraft:ghast": "2024-12-18 01:11:54 +0000",
       "minecraft:hoglin": "2024-12-15 01:17:21 +0000",
       "minecraft:piglin": "2024-12-15 01:17:09 +0000",
       "minecraft:enderman": "2024-12-14 22:43:02 +0000",
@@ -1531,9 +1532,10 @@
       "minecraft:crimson_forest": "2024-12-15 00:52:59 +0000",
       "minecraft:nether_wastes": "2024-12-15 00:52:45 +0000",
       "minecraft:soul_sand_valley": "2024-12-17 02:19:27 +0000",
-      "minecraft:warped_forest": "2024-12-14 23:55:46 +0000"
+      "minecraft:warped_forest": "2024-12-14 23:55:46 +0000",
+      "minecraft:basalt_deltas": "2024-12-18 01:14:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2366,6 +2368,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-18 00:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-18 01:19:18 +0000"
     },
     "done": true
   },
