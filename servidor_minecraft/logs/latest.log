@@ -1000,3 +1000,41 @@
 [02:28:52] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
 [02:28:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [02:28:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:33:06] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:33:06] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:33:14] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:33:14] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:33:18] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:33:18] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:33:33] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:33:33] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:33:53] [Server thread/INFO]: xFerNando1314x issued server command: /fill -766 -58 -1777
+[02:33:55] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:33:55] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:33:57] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:33:57] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:33:59] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:33:59] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:34:07] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:34:07] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:34:12] [Server thread/INFO]: xFerNando1314x issued server command: /fill -766 -58 -1777 -766 68 -1777 minecraft:water
+[02:34:12] [Server thread/INFO]: [xFerNando1314x: Successfully filled 127 block(s)]
+[02:35:21] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:35:21] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:35:28] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:35:28] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:36:22] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:36:22] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:38:12] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:38:12] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:40:00] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[02:40:00] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[02:40:16] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:40:16] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:40:40] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[02:40:40] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[02:40:42] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[02:40:42] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[02:40:49] [Server thread/INFO]: xFerNando1314x issued server command: /fill -101 121 -223
+[02:41:44] [Server thread/INFO]: xFerNando1314x issued server command: /fill -101 121 -223 -100 120 -65 minecraft:white_carpet
+[02:41:44] [Server thread/INFO]: [xFerNando1314x: Successfully filled 634 block(s)]
