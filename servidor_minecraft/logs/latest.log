@@ -1071,3 +1071,26 @@
 [03:01:53] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
 [03:01:56] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [03:01:56] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[03:02:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:02:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:02:23] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:smite 5
+[03:02:23] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Smite V to xFerNando1314x's item]
+[03:02:27] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
+[03:02:27] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
+[03:02:30] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending
+[03:02:30] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
+[03:02:36] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x
+[03:02:40] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:sweeping_edge 3
+[03:02:40] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Sweeping Edge III to xFerNando1314x's item]
+[03:03:15] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:looting 3
+[03:03:15] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Looting III to xFerNando1314x's item]
+[03:03:21] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[03:03:21] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[03:04:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:04:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:04:45] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[03:04:45] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[03:09:04] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[03:09:04] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[03:09:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[03:09:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
