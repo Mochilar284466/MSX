@@ -799,3 +799,34 @@
 [01:38:43] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Fortune III to xFerNando1314x's item]
 [01:38:44] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
 [01:38:44] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:44:57] [Server thread/INFO]: xFerNando1314x issued server command: /locate structure minecraft:bastion_remnant
+[01:44:57] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 8 ms
+[01:44:59] [Server thread/INFO]: xFerNando1314x issued server command: /tp @s 576 ~ 112
+[01:44:59] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 576.500000, 55.000000, 112.500000]
+[01:45:03] [Server thread/INFO]: xFerNando1314x has made the advancement [Those Were the Days]
+[01:45:08] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode adventure
+[01:45:08] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Adventure Mode]
+[01:45:10] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:45:10] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:45:11] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[01:45:11] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[01:45:20] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:45:20] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:46:24] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[01:46:24] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[01:46:38] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:46:38] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:46:50] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
+[01:46:50] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
+[01:46:52] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:46:52] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:47:38] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:47:38] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:47:44] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:47:44] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[01:48:09] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp xFerNando1314x 382.43 -57.50 -441.25 -3.25 24.30
+[01:48:09] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to 382.430000, -57.500000, -441.250000]
+[01:49:13] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[01:49:13] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[01:49:29] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[01:49:29] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]

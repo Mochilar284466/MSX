@@ -379,6 +379,7 @@
       "rotten_flesh": "2024-12-17 00:59:42 +0000",
       "cooked_mutton": "2024-12-15 00:37:00 +0000",
       "potato": "2024-12-14 23:27:49 +0000",
+      "cooked_beef": "2024-12-18 01:48:22 +0000",
       "beef": "2024-12-14 22:35:13 +0000",
       "carrot": "2024-12-14 22:50:49 +0000"
     },
@@ -609,6 +610,7 @@
       "minecraft:magma_cube": "2024-12-15 01:03:11 +0000",
       "minecraft:endermite": "2024-12-18 00:11:55 +0000",
       "minecraft:spider": "2024-12-14 23:27:40 +0000",
+      "minecraft:piglin_brute": "2024-12-18 01:47:10 +0000",
       "minecraft:zombie": "2024-12-14 23:08:14 +0000",
       "minecraft:creeper": "2024-12-14 23:03:23 +0000",
       "minecraft:drowned": "2024-12-17 00:59:36 +0000"
@@ -2341,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-18 01:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/ride_strider": {
     "criteria": {
       "used_warped_fungus_on_a_stick": "2024-12-18 01:08:58 +0000"
@@ -2416,6 +2424,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 00:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-18 01:45:03 +0000"
     },
     "done": true
   },
