@@ -582,3 +582,34 @@
 [00:29:48] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
 [00:29:48] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
 [00:39:28] [Async Chat Thread - #8/INFO]: [Not Secure] <+CHUMAPRO09> Feña
+[00:39:31] [Async Chat Thread - #8/INFO]: [Not Secure] <xFerNando1314x> DIME
+[00:41:26] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:41:26] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:41:35] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:41:35] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:42:53] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:42:53] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:43:07] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:43:07] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:44:32] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:44:32] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:44:41] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:44:41] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:45:15] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 0.17808999999999742,-22.643769999999996,-0.39998000000002776
+[00:45:17] [Server thread/WARN]: Oak Boat (vehicle of xFerNando1314x) moved too quickly! 40.40822340455681,0.0,0.2736839226561898
+[00:46:46] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:46:46] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:47:04] [Server thread/INFO]: xFerNando1314x issued server command: /summon minecraft:lightning_bolt
+[00:47:04] [Server thread/INFO]: [xFerNando1314x: Summoned new Lightning Bolt]
+[00:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[00:47:07] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:47:07] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:49:05] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:49:05] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:49:18] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x
+[00:49:25] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:sweeping_edge 3
+[00:49:25] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Sweeping Edge III to xFerNando1314x's item]
+[00:49:27] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:fire_aspect 2
+[00:49:27] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Fire Aspect II to xFerNando1314x's item]
+[00:49:35] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:looting 3
+[00:49:35] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Looting III to xFerNando1314x's item]
