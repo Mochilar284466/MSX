@@ -1,172 +1,267 @@
-[23:38:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[23:38:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[23:38:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[23:38:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[23:38:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
- - Geyser-Spigot (2.6.0-SNAPSHOT), Graves (4.9.6), LuckPerms (5.4.150), SimpleTpa (7.3), SkinsRestorer (15.5.0), Veinminer (2.2.2), ViaBackwards (5.2.0), ViaRewind (4.0.4), ViaVersion (5.2.1-SNAPSHOT), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[23:38:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:38:32] [ServerMain/INFO]: Loaded 1290 recipes
-[23:38:32] [ServerMain/INFO]: Loaded 1399 advancements
-[23:38:32] [Server thread/INFO]: Starting minecraft server version 1.21
-[23:38:32] [Server thread/INFO]: Loading properties
-[23:38:32] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[23:38:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[23:38:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:38:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:38:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[23:38:34] [Server thread/INFO]: Default game type: SURVIVAL
-[23:38:34] [Server thread/INFO]: Generating keypair
-[23:38:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:38:35] [Server thread/INFO]: Using epoll channel type
-[23:38:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:38:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[23:38:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/MSX/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[23:38:37] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1-SNAPSHOT
-[23:38:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[23:38:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[23:38:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[23:38:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[23:38:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[23:38:43] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[23:38:44] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.0
-[23:38:44] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[23:38:46] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[23:38:46] [Server thread/INFO]: [floodgate] Took 2,309ms to boot Floodgate
-[23:38:46] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
-[23:38:46] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
-[23:38:46] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[23:38:48] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[23:38:48] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[23:38:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[23:38:48] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[23:38:49] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.6
-[23:38:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.150
-[23:38:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:38:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
-[23:38:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[23:38:51] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[23:38:52] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[23:38:52] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[23:38:53] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[23:38:53] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[23:38:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[23:38:53] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.150
-[23:38:54] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[23:38:54] [Server thread/INFO]:         __    
-[23:38:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.150
-[23:38:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[23:38:54] [Server thread/INFO]: 
-[23:38:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[23:38:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[23:38:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[23:38:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[23:38:55] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1227ms)
-[23:38:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:38:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:38:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:38:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:38:55] [Server thread/INFO]: Preparing level "world"
-[23:38:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:38:57] [Server thread/INFO]: Time elapsed: 1388 ms
-[23:38:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:38:57] [Server thread/INFO]: Time elapsed: 236 ms
-[23:38:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:38:57] [Server thread/INFO]: Time elapsed: 206 ms
-[23:38:57] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1-SNAPSHOT
-[23:38:57] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[23:38:57] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.0
-[23:38:57] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[23:38:58] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
-[23:38:58] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[23:38:58] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
-[23:38:58] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[23:38:58] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[23:38:59] [Server thread/INFO]: [Graves] Enabling Graves v4.9.6
-[23:38:59] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
-[23:39:00] [Server thread/INFO]: [spark] Starting background profiler...
-[23:39:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[23:39:02] [Server thread/INFO]: [Geyser-Spigot] 
-[23:39:02] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
-[23:39:02] [Server thread/INFO]: [Geyser-Spigot] 
-[23:39:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[23:39:12] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[23:39:12] [Server thread/INFO]: [Geyser-Spigot] Done (10.436s)! Run /geyser help for help!
-[23:39:12] [Server thread/INFO]: Done preparing level "world" (17.738s)
-[23:39:12] [Server thread/INFO]: Starting GS4 status listener
-[23:39:12] [Server thread/INFO]: Thread Query Listener started
-[23:39:12] [Server thread/INFO]: Starting remote control listener
-[23:39:12] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[23:39:12] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
-[23:39:12] [Server thread/INFO]: JMX monitoring enabled
-[23:39:12] [Server thread/INFO]: Running delayed init tasks
-[23:39:12] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[23:39:12] [Craft Scheduler Thread - 6 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
-[23:39:12] [Craft Scheduler Thread - 6 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
-[23:39:12] [Craft Scheduler Thread - 6 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
-[23:39:12] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[23:39:12] [Server thread/INFO]: Done (50.842s)! For help, type "help"
-[23:39:12] [Server thread/INFO]: Timings Reset
-[23:39:45] [User Authenticator #0/INFO]: UUID of player xFerNando1314x is 28fc7624-3b5a-33e5-b9a1-c646b787031c
-[23:39:46] [Server thread/INFO]: xFerNando1314x joined the game
-[23:39:46] [Server thread/INFO]: xFerNando1314x[/127.28.244.156:54747] logged in with entity id 71 at ([world]1639.8673205695081, 0.0, -79.14993422085604)
-[23:40:09] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:unbreaking 3
-[23:40:09] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Unbreaking III to xFerNando1314x's item]
-[23:40:14] [Server thread/INFO]: xFerNando1314x issued server command: /enchant xFerNando1314x minecraft:mending
-[23:40:14] [Server thread/INFO]: [xFerNando1314x: Applied enchantment Mending to xFerNando1314x's item]
-[23:40:35] [Server thread/INFO]: xFerNando1314x issued server command: /xp add xFerNando1314x 100 points
-[23:40:35] [Server thread/INFO]: [xFerNando1314x: Gave 100 experience points to xFerNando1314x]
-[23:42:59] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CHUMAPRO09
-[23:42:59] [localSession-7-2/INFO]: [Geyser-Spigot] CHUMAPRO09 (logged in as: CHUMAPRO09) has connected to the Java server
-[23:43:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 joined (UUID: 00000000-0000-0000-0009-01f9b12128cf)
-[23:43:00] [Server thread/INFO]: +CHUMAPRO09 joined the game
-[23:43:00] [Server thread/INFO]: +CHUMAPRO09[/127.0.0.1:0] logged in with entity id 958 at ([world]677.69999, 66.0, -486.30001)
-[23:43:17] [Async Chat Thread - #0/INFO]: [Not Secure] <xFerNando1314x> mano
-[23:43:22] [Async Chat Thread - #0/INFO]: [Not Secure] <+CHUMAPRO09> Au
-[23:43:25] [Async Chat Thread - #0/INFO]: [Not Secure] <xFerNando1314x> te acuerdas donde queda mi casa?
-[23:43:30] [Async Chat Thread - #0/INFO]: [Not Secure] <+CHUMAPRO09> No
-[23:43:36] [Async Chat Thread - #0/INFO]: [Not Secure] <xFerNando1314x> ok, esperame
-[23:43:54] [Async Chat Thread - #0/INFO]: [Not Secure] <+CHUMAPRO09> Discord?
-[23:43:55] [Async Chat Thread - #0/INFO]: [Not Secure] <xFerNando1314x> tienes base?
-[23:43:57] [Async Chat Thread - #0/INFO]: [Not Secure] <xFerNando1314x> ok
-[23:44:02] [Async Chat Thread - #0/INFO]: [Not Secure] <+CHUMAPRO09> Nou
-[23:45:06] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode spectator
-[23:45:06] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Spectator Mode]
-[23:45:13] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[23:45:13] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[23:45:15] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [Best Friends Forever]
-[23:46:37] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
-[23:46:37] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
-[23:47:46] [Server thread/INFO]: xFerNando1314x has made the advancement [Enchanter]
-[23:48:02] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
-[23:48:02] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
-[23:49:09] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
-[23:49:09] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
-[23:49:09] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! -72.873738026132,-11.249179999999996,109.27445446478697
-[23:50:56] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [Enchanter]
-[23:52:25] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
-[23:52:25] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
-[23:53:30] [Async Chat Thread - #2/INFO]: [Not Secure] <+CHUMAPRO09> No veo nada
-[23:58:12] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:00:23] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
+[00:00:23] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
+[00:00:39] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:00:39] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:00:59] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:00:59] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:00:59] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:00:59] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:00] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:00] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:01] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:01] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:01] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:01] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:02] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:02] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:02] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:02] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:03] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:03] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:04] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:04] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:04] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:04] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:05] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:05] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:06] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:06] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:06] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:06] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:07] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:07] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:07] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:07] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:08] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:08] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:09] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:09] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to 382.430000, -57.500000, -441.250000]
+[00:01:09] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 disconnected
+[00:01:09] [localSession-7-3/INFO]: [Geyser-Spigot] CHUMAPRO09 has disconnected from the Java server because of Bedrock client timed out
+[00:01:09] [Server thread/INFO]: +CHUMAPRO09 lost connection: Disconnected
+[00:01:09] [Server thread/INFO]: +CHUMAPRO09 left the game
+[00:01:10] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:10] [Server thread/INFO]: xFerNando1314x issued server command: /execute in minecraft:overworld run tp +CHUMAPRO09 382.43 -57.50 -441.25 -3.25 24.30
+[00:01:29] [epollEventLoopGroup-10-2/INFO]: [Geyser-Spigot] Player connected with username CHUMAPRO09
+[00:01:29] [localSession-7-4/INFO]: [Geyser-Spigot] CHUMAPRO09 (logged in as: CHUMAPRO09) has connected to the Java server
+[00:01:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 joined (UUID: 00000000-0000-0000-0009-01f9b12128cf)
+[00:01:30] [Server thread/INFO]: +CHUMAPRO09 joined the game
+[00:01:30] [Server thread/INFO]: +CHUMAPRO09[/127.0.0.1:0] logged in with entity id 5928 at ([world]382.43, -57.5, -441.25)
+[00:01:35] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:01:35] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:01:44] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:01:44] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:01:50] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode creative
+[00:01:50] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Creative Mode]
+[00:01:54] [Server thread/INFO]: xFerNando1314x issued server command: /gamemode survival
+[00:01:54] [Server thread/INFO]: [xFerNando1314x: Set own game mode to Survival Mode]
+[00:02:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 0.39932000000004564,0.12160000000000082,-10.109700000000032
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.442199999999985,-1.176790000000011,-0.9696539999999985
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:03:59] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 11.162379999999985,-1.176790000000011,-0.9484864999999996
+[00:04:05] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 10.284040000000005,0.4199999999999875,0.028703000000000145
+[00:04:18] [Server thread/INFO]: +CHUMAPRO09 has made the advancement [Eye Spy]
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved too quickly! 3.6222999999999956,0.5,-9.507533999999993
+[00:04:54] [Server thread/WARN]: +CHUMAPRO09 moved wrongly!
+[00:05:38] [Async Chat Thread - #4/INFO]: [Not Secure] <+CHUMAPRO09> Tengo mal net
+[00:05:43] [Async Chat Thread - #4/INFO]: [Not Secure] <xFerNando1314x> a bno
+[00:05:54] [Server thread/INFO]: xFerNando1314x has made the advancement [The End?]
+[00:05:56] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:05:56] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[00:05:57] [Async Chat Thread - #4/INFO]: [Not Secure] <+CHUMAPRO09> Pndj
+[00:07:05] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09
+[00:07:05] [Server thread/INFO]: [xFerNando1314x: Teleported xFerNando1314x to +CHUMAPRO09]
+[00:07:25] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
+[00:07:25] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
+[00:07:33] [localSession-7-4/INFO]: [Geyser-Spigot] CHUMAPRO09 has disconnected from the Java server because of Bedrock client timed out
+[00:07:33] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 disconnected
+[00:07:33] [Server thread/INFO]: +CHUMAPRO09 lost connection: Disconnected
+[00:07:33] [Server thread/INFO]: +CHUMAPRO09 left the game
+[00:07:52] [epollEventLoopGroup-10-3/INFO]: [Geyser-Spigot] Player connected with username CHUMAPRO09
+[00:07:52] [localSession-7-1/INFO]: [Geyser-Spigot] CHUMAPRO09 (logged in as: CHUMAPRO09) has connected to the Java server
+[00:07:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as +CHUMAPRO09 joined (UUID: 00000000-0000-0000-0009-01f9b12128cf)
+[00:07:52] [Server thread/INFO]: +CHUMAPRO09 joined the game
+[00:07:52] [Server thread/INFO]: +CHUMAPRO09[/127.0.0.1:0] logged in with entity id 6835 at ([world]1638.2811726183002, 3.0, -73.19406188423117)
+[00:08:19] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
+[00:08:19] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
+[00:08:23] [Server thread/INFO]: xFerNando1314x issued server command: /tp +CHUMAPRO09 xFerNando1314x
+[00:08:23] [Server thread/INFO]: [xFerNando1314x: Teleported +CHUMAPRO09 to xFerNando1314x]
