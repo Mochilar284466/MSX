@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "in_your_world:behind": {
+    "criteria": {
+      "behind": "2025-01-04 01:08:32 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-01-04 00:55:55 +0000"
@@ -16,6 +22,12 @@
       "log_spam_fixer": "2025-01-04 00:55:55 +0000"
     },
     "done": false
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2025-01-04 01:05:37 +0000"
+    },
+    "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
