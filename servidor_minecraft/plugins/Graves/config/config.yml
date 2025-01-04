@@ -23,22 +23,14 @@ settings:
   cache:
     type: NORMAL # Cache type.
 
-  #####################
-  # Listener Priority #
-  ##################### 
-  # The listener priority of the death event.
-  # Options: LOWEST, LOW, NORMAL, HIGH, HIGHEST, MONITOR
-  # The default option should work with most plugins. Unless you know what you are
-  # doing, you should leave these at their defaults.
-  listener-priority:
-    death: MONITOR
-
   #########
   # Debug #
   #########
   # Debug information, debug level 2 can be useful in finding out why a Grave does not spawn on your server.
   debug:
     admin: # UUID or name of admins to send debug information to. https://mcuuid.net/
+      - "c59ac6d2-4851-4183-a9f7-15d1a293eed6" # Ranull
+      - "069a79f4-44e9-4726-a5be-fca90e38aaf5" # Notch
     level: 0 # 0 = Nothing, 1 = Information, 2 = Failures
 
   #########
@@ -82,7 +74,8 @@ settings:
       enabled: true # Should WorldGuard integration be enabled.
     towny: # https://www.spigotmc.org/resources/towny-advanced.72694/
       enabled: true # Should Towny integration be enabled.
-
+    griefdefender: # https://www.spigotmc.org/resources/griefdefender.68900/
+      enabled: true # Should GriefDefender integration be enabled.
     furniturelib: # https://www.spigotmc.org/resources/furniturelibary.9368/
       enabled: true # Should FurnitureLib integration be enabled.
     furnitureengine: # https://www.spigotmc.org/resources/furnitureengine.97134/
@@ -109,5 +102,3 @@ settings:
       enabled: true # Should PlayerNPC integration be enabled.
     itembridge: # https://www.spigotmc.org/resources/itembridge.77080/
       enabled: true # Should ItemBridge integration be enabled.
-    coreprotect: # https://www.spigotmc.org/resources/coreprotect.8631/
-      enabled: true # Should CoreProtect integration be enabled.
