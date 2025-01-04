@@ -57,6 +57,7 @@ Events:
       - '%objective_score_{inicio}% == 0'
     actions:
       default:
+      - 'player_command_as_op: difficulty peaceful'
       - 'player_command_as_op: gamemode survival %player%'
       - 'player_command_as_op: clear %player%'
       - 'player_command_as_op: give %player% man_from_the_shadow:pills'
@@ -78,6 +79,7 @@ Events:
       - 'player_command_as_op: scoreboard players add %player% inicio 1'
       - 'wait: 300s'
       - 'player_command_as_op: weather thunder'
+      - 'player_command_as_op: difficulty hard'
   event2:
     type: block_interact
     one_time: true
